@@ -16,3 +16,5 @@ this process will repeat untill you press ctrl+c
 
 # .exe
 https://drive.google.com/file/d/1s81ZxM3aKgeq6_iWll2QMq2qAnfrXdcd/view?usp=sharing
+
+I DONT KNOW WHY BUT IT DOESNT WORK ON LINUX！！！！
